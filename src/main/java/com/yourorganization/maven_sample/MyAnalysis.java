@@ -32,7 +32,7 @@ public class MyAnalysis {
 
             // Show that it's "double" in every case:
             System.out.println(be.toString() + " is a: " + resolvedType);
-        });
-        hjhj
+        }
+        
     }
 }
